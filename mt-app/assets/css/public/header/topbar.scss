@@ -122,7 +122,8 @@
           position: relative;
           left: -1175px;
           z-index: 999;
-          border: 1px solid #e5e5e5;
+          border: 1px solid #f5e1e1;
+          border-right: 0;
           display: none;
           text-align: left;
           &:before {

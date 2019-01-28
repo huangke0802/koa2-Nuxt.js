@@ -19,6 +19,8 @@
     "cross-env": "5.2.0",
     "crypto-js": "3.1.9-1",
     "element-ui": "2.4.6",
+    "eslint": "^5.12.1",
+    "eslint-loader": "^2.1.1",
     "js-pinyin": "0.1.9",
     "koa": "2.5.2",
     "koa-bodyparser": "4.2.1",
